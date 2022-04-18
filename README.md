@@ -6,3 +6,4 @@ There's neither a guarantee that the parts will actually work, nor do they get u
 ## Contained old implementations
 - [Old frontend implementation](stripcontrol-frontend/README.md)
 - [Old spring-boot implementation](stripcontrol-springbackend/README.md)
+- [Old quarkus HTTP-API implementation](stripcontrol-quarkusbackend/README.md)

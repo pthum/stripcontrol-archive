@@ -28,6 +28,8 @@
 
 	<modules>
 		<module>stripcontrol-frontend</module>
+		<module>stripcontrol-springbackend</module>
+		<module>stripcontrol-quarkusbackend</module>
 	</modules>
 
 
