@@ -2,7 +2,7 @@
 
 > [Deprecated] Stripcontrol backend application made with SpringBoot2.
 
-You will need the `stripcontrol-ledhandling` project and it's dependencies at [this state](https://github.com/pthum/stripcontrol/commit/6150a5e99b79718501da4379c5693f325c6e1aca) to get this running.
+You will need the `stripcontrol-ledhandling` project and it's dependencies at [this state](https://github.com/pthum/stripcontrol-java/tree/6150a5e99b79718501da4379c5693f325c6e1aca) to get this running.
 
 ## Project Build
 ```bash
