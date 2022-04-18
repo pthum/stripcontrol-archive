@@ -1,2 +1,3 @@
 # stripcontrol-archive
-Archived implementations and parts of the stripcontrol system
+This repository contains old and unmaintained implementations of the "stripcontrol" light system.
+There's neither a guarantee that the parts will actually work, nor do they get updates. This is just an archive to keep the other repositories clean.
